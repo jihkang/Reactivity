@@ -1,0 +1,15 @@
+
+Reactivity Components
+
+useState
+상태를 저장하는 로직이 필요함.
+
+useEffect
+상태가 변경 됐을때 재렌더링 로직이 발생하도록 하는것이 필요함.
+
+0301 
+remain:
+    useState의 내부에서 render 를 호출하는데 이를 한번만 호출할 방법에 대해서 궁리해야함.
+    
+
+    
